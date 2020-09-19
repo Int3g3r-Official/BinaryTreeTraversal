@@ -81,3 +81,12 @@ ___
 
 
 ___
+
+# Best way to learn this
+
+The best way for you to learn this is first make a binary tree in your notebook and try to traverse it by hand.
+To check if you have the right answer you can type your binary tree into some solver online.
+
+Then you should clone this project and rewrite it whole by hand, no copy paste this time.
+Then you should try to recreate it as much as you can with your knowledge.
+If you don't succeed at it first time don't worry i didn't too. Just continue forwards and go trough it!
