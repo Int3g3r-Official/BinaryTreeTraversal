@@ -30,6 +30,18 @@ In Pre Order we:
 3. Traverse the left subtree by recursion
 4. Traverse the right subtree by recursion.
 
+___
+
+         1
+       /   \
+      2     3          Pre Order ->  1 , 2 , 4 , 5 , 3 , 6
+     / \     \
+    4   5     6          
+
+
+___
+
+
 ### In Order
 
 In Pre Order we:
@@ -38,6 +50,18 @@ In Pre Order we:
 3. Display the data part of the root
 4. Traverse the right subtree by recursion.
 
+___
+
+         1
+       /   \
+      2     3          In Order -> 4 , 2 , 5 , 1 , 3 , 6
+     / \     \
+    4   5     6          
+
+
+___
+
+
 ### Pre Order
 
 In Pre Order we:
@@ -45,3 +69,15 @@ In Pre Order we:
 2. Traverse the left subtree by recursion
 3. Traverse the right subtree by recursion.
 4. Display the data part of the root
+
+
+___
+
+         1
+       /   \
+      2     3          Pre Order -> 4 , 5 , 2 , 6 , 3 , 1
+     / \     \
+    4   5     6          
+
+
+___
